@@ -1,0 +1,414 @@
+{
+    "cars": [
+        {
+            "id": 1,
+            "carInsurances": [
+                {
+                    "year": 2022,
+                    "name": "Hyundai Sonata",
+                    "price": 25000,
+                    "img": "/images/1.jpg"
+                },
+                {
+                    "year": 2021,
+                    "name": "Toyota Camry",
+                    "price": 22000,
+                    "img": "/images/2.jpg"
+                },
+                {
+                    "year": 2023,
+                    "name": "Honda Accord",
+                    "price": 28000,
+                    "img": "/images/3.jpg"
+                },
+                {
+                    "year": 2022,
+                    "name": "Ford Fusion",
+                    "price": 23000,
+                    "img": "/images/4.jpg"
+                },
+                {
+                    "year": 2020,
+                    "name": "Nissan Altima",
+                    "price": 45000,
+                    "img": "/images/5.jpg"
+                },
+                {
+                    "year": 2022,
+                    "name": "Chevrolet Malibu",
+                    "price": 40000,
+                    "img": "/images/6.jpg"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "carInsurances": [
+                {
+                    "year": 2022,
+                    "name": "Kia Optima",
+                    "price": 35000,
+                    "img": "/images/7.jpg"
+                },
+                {
+                    "year": 2020,
+                    "name": "Volkswagen Passat",
+                    "price": 32000,
+                    "img": "/images/8.jpg"
+                },
+                {
+                    "year": 2021,
+                    "name": "Mazda6",
+                    "price": 24000,
+                    "img": "/images/9.jpg"
+                },
+                {
+                    "year": 2023,
+                    "name": "Subaru Legacy",
+                    "price": 28000,
+                    "img": "/images/10.jpg"
+                },
+                {
+                    "year": 2022,
+                    "name": "Chrysler 200",
+                    "price": 26000,
+                    "img": "/images/11.jpg"
+                },
+                {
+                    "year": 2020,
+                    "name": "Audi A4",
+                    "price": 30000,
+                    "img": "/images/12.jpg"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "carInsurances": [
+                {
+                    "year": 2021,
+                    "name": "Hyundai Elantra",
+                    "price": 27000,
+                    "img": "/images/13.jpg"
+                },
+                {
+                    "year": 2022,
+                    "name": "Kia Forte",
+                    "price": 22000,
+                    "img": "/images/14.jpg"
+                },
+                {
+                    "year": 2023,
+                    "name": "Honda Civic",
+                    "price": 26000,
+                    "img": "/images/15.jpg"
+                },
+                {
+                    "year": 2021,
+                    "name": "Toyota Corolla",
+                    "price": 31000,
+                    "img": "/images/16.jpg"
+                },
+                {
+                    "year": 2020,
+                    "name": "Nissan Sentra",
+                    "price": 33000,
+                    "img": "/images/17.jpg"
+                },
+                {
+                    "year": 2022,
+                    "name": "Ford Focus",
+                    "price": 29000,
+                    "img": "/images/18.jpg"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "carInsurances": [
+                {
+                    "year": 2023,
+                    "name": "Volkswagen Jetta",
+                    "price": 28000,
+                    "img": "/images/19.jpg"
+                },
+                {
+                    "year": 2022,
+                    "name": "Mazda3",
+                    "price": 30000,
+                    "img": "/images/20.jpg"
+                },
+                {
+                    "year": 2021,
+                    "name": "Subaru Impreza",
+                    "price": 27000,
+                    "img": "/images/21.jpg"
+                },
+                {
+                    "year": 2020,
+                    "name": "Chevrolet Cruze",
+                    "price": 32000,
+                    "img": "/images/22.jpg"
+                },
+                {
+                    "year": 2023,
+                    "name": "Audi A3",
+                    "price": 31000,
+                    "img": "/images/23.jpg"
+                },
+                {
+                    "year": 2022,
+                    "name": "Chrysler 300",
+                    "price": 34000,
+                    "img": "/images/24.jpg"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "carInsurances": [
+                {
+                    "year": 2022,
+                    "name": "Hyundai Sonata",
+                    "price": 25000,
+                    "img": "/images/25.jpg"
+                },
+                {
+                    "year": 2021,
+                    "name": "Toyota Camry",
+                    "price": 22000,
+                    "img": "/images/26.jpg"
+                },
+                {
+                    "year": 2023,
+                    "name": "Honda Accord",
+                    "price": 28000,
+                    "img": "/images/27.jpg"
+                },
+                {
+                    "year": 2022,
+                    "name": "Ford Fusion",
+                    "price": 23000,
+                    "img": "/images/28.jpg"
+                },
+                {
+                    "year": 2020,
+                    "name": "Nissan Altima",
+                    "price": 45000,
+                    "img": "/images/29.jpg"
+                },
+                {
+                    "year": 2022,
+                    "name": "Chevrolet Malibu",
+                    "price": 40000,
+                    "img": "/images/30.jpg"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "carInsurances": [
+                {
+                    "year": 2022,
+                    "name": "Kia Optima",
+                    "price": 35000,
+                    "img": "/images/31.jpg"
+                },
+                {
+                    "year": 2020,
+                    "name": "Volkswagen Passat",
+                    "price": 32000,
+                    "img": "/images/32.jpg"
+                },
+                {
+                    "year": 2021,
+                    "name": "Mazda6",
+                    "price": 24000,
+                    "img": "/images/33.jpg"
+                },
+                {
+                    "year": 2023,
+                    "name": "Subaru Legacy",
+                    "price": 28000,
+                    "img": "/images/34.jpg"
+                },
+                {
+                    "year": 2022,
+                    "name": "Chrysler 200",
+                    "price": 26000,
+                    "img": "/images/35.jpg"
+                },
+                {
+                    "year": 2020,
+                    "name": "Audi A4",
+                    "price": 30000,
+                    "img": "/images/36.jpg"
+                }
+            ]
+        },
+        {      
+            "id": 7,
+            "carInsurances": [
+                {
+                    "year": 2021,
+                    "name": "Hyundai Elantra",
+                    "price": 27000,
+                    "img": "/images/37.jpg"
+                },
+                {
+                    "year": 2022,
+                    "name": "Kia Forte",
+                    "price": 22000,
+                    "img": "/images/38.jpg"
+                },
+                {
+                    "year": 2023,
+                    "name": "Honda Civic",
+                    "price": 26000,
+                    "img": "/images/39.jpg"
+                },
+                {
+                    "year": 2021,
+                    "name": "Toyota Corolla",
+                    "price": 31000,
+                    "img": "/images/40.jpg"
+                },
+                {
+                    "year": 2020,
+                    "name": "Nissan Sentra",
+                    "price": 33000,
+                    "img": "/images/41.jpg"
+                },
+                {
+                    "year": 2022,
+                    "name": "Ford Focus",
+                    "price": 29000,
+                    "img": "/images/42.jpg"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "carInsurances": [
+                {
+                    "year": 2023,
+                    "name": "Volkswagen Jetta",
+                    "price": 28000,
+                    "img": "/images/43.jpg"
+                },
+                {
+                    "year": 2022,
+                    "name": "Mazda3",
+                    "price": 30000,
+                    "img": "/images/44.jpg"
+                },
+                {
+                    "year": 2021,
+                    "name": "Subaru Impreza",
+                    "price": 27000,
+                    "img": "/images/45.jpg"
+                },
+                {
+                    "year": 2020,
+                    "name": "Chevrolet Cruze",
+                    "price": 32000,
+                    "img": "/images/46.jpg"
+                },
+                {
+                    "year": 2023,
+                    "name": "Audi A3",
+                    "price": 31000,
+                    "img": "/images/47.jpg"
+                },
+                {
+                    "year": 2022,
+                    "name": "Chrysler 300",
+                    "price": 34000,
+                    "img": "/images/48.jpg"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "carInsurances": [
+                {
+                    "year": 2021,
+                    "name": "Hyundai Elantra",
+                    "price": 27000,
+                    "img": "/images/49.jpg"
+                },
+                {
+                    "year": 2022,
+                    "name": "Kia Forte",
+                    "price": 22000,
+                    "img": "/images/50.jpg"
+                },
+                {
+                    "year": 2023,
+                    "name": "Honda Civic",
+                    "price": 26000,
+                    "img": "/images/51.jpg"
+                },
+                {
+                    "year": 2021,
+                    "name": "Toyota Corolla",
+                    "price": 31000,
+                    "img": "/images/52.jpg"
+                },
+                {
+                    "year": 2020,
+                    "name": "Nissan Sentra",
+                    "price": 33000,
+                    "img": "/images/53.jpg"
+                },
+                {
+                    "year": 2022,
+                    "name": "Ford Focus",
+                    "price": 29000,
+                    "img": "/images/54.jpg"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "carInsurances": [
+                {
+                    "year": 2023,
+                    "name": "Volkswagen Jetta",
+                    "price": 28000,
+                    "img": "/images/55.jpg"
+                },
+                {
+                    "year": 2022,
+                    "name": "Mazda3",
+                    "price": 30000,
+                    "img": "/images/56.jpg"
+                },
+                {
+                    "year": 2021,
+                    "name": "Subaru Impreza",
+                    "price": 27000,
+                    "img": "/images/57.jpg"
+                },
+                {
+                    "year": 2020,
+                    "name": "Chevrolet Cruze",
+                    "price": 32000,
+                    "img": "/images/58.jpg"
+                },
+                {
+                    "year": 2023,
+                    "name": "Audi A3",
+                    "price": 31000,
+                    "img": "/images/59.jpg"
+                },
+                {
+                    "year": 2022,
+                    "name": "Chrysler 300",
+                    "price": 34000,
+                    "img": "/images/60.jpg"
+                }
+            ]
+        }
+    ]
+}

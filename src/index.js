@@ -2,12 +2,19 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
+import Page from './components/page';
 import reportWebVitals from './reportWebVitals';
+import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom'; // Import BrowserRouter and Route
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <Router>
+      <Routes>
+        <Route path='/page/:page' element={<Page/>}/>
+        <Route path="/" element={<Navigate to="/page/1" />} />
+      </Routes>
+    </Router>
   </React.StrictMode>
 );
 
